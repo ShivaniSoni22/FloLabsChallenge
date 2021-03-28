@@ -1,0 +1,4 @@
+include ':data'
+include ':feature1'
+include ':app'
+rootProject.name = "FloLabsChallenge"
